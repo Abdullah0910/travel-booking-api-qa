@@ -61,7 +61,6 @@ pytest -v
 - Expected: Should return error if already cancelled
 - Impact: Incorrect system behavior
 
--
 ## Key QA Learnings
 
 * API validation (status codes, JSON structure)
