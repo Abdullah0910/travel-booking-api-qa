@@ -76,7 +76,6 @@ pytest -v
 * Debugging API issues (415 errors, incorrect endpoints)
 
 ## Screenshorts
-<img width="959" height="494" alt="Screenshot 2026-04-13 171951" src="https://github.com/user-attachments/assets/6193114d-aa68-4ff0-8c87-fecd422b85ad" />
 <img width="848" height="212" alt="localtestcase passed" src="https://github.com/user-attachments/assets/9c133abc-a783-4ff2-bf3c-5a77617e8559" />
 <img width="844" height="568" alt="image" src="https://github.com/user-attachments/assets/df7607b5-1bc5-44f8-a141-80a7855e3cc0" />
 <img width="795" height="529" alt="image" src="https://github.com/user-attachments/assets/306b40e2-577c-4fa4-9abd-64891301ddc0" />
