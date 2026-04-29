@@ -4,7 +4,6 @@
 
 A QA-focused project simulating a travel booking system. It demonstrates end-to-end API testing using manual and automated approaches.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ A QA-focused project simulating a travel booking system. It demonstrates end-to-
 3. Automated testing using PyTest
 4. Edge case and negative scenario validation
 
----
 
 ## Tech Stack
 
@@ -21,8 +19,7 @@ A QA-focused project simulating a travel booking system. It demonstrates end-to-
 * PyTest (automation)
 * Postman (manual testing)
 
----
-
+-
 ## API Endpoints
 
 ### Search Routes
@@ -44,7 +41,6 @@ POST `/cancel`
 "booking_id": 1
 }
 
----
 
 ## Testing
 
@@ -58,7 +54,6 @@ POST `/cancel`
 Run tests:
 pytest -v
 
----
 
 ## Bug Identified
 
