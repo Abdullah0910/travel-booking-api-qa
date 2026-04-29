@@ -19,7 +19,7 @@ A QA-focused project simulating a travel booking system. It demonstrates end-to-
 * PyTest (automation)
 * Postman (manual testing)
 
--
+
 ## API Endpoints
 
 ### Search Routes
@@ -81,7 +81,7 @@ pytest -v
 
 
 
----
+
 Author
 Abdullah Khan
 
